@@ -1,2 +1,0 @@
-# EXAMEN
-Proyecto Examen
